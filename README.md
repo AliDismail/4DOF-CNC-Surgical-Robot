@@ -2,7 +2,7 @@
 
 > **Status: Under Development**
 
-A 4 degree of freedom CNC style robot (X, Y, Z, and knife rotation) with an orientable knife end effector, built to make controlled cuts into a soft test material (playdough shaped like human tissue) by following a line drawn on the subject's surface, while maintaining a target cutting depth throughout the motion.
+A 4 degree of freedom CNC style robot (X, Y, Z, and knife rotation) with an orientable knife end effector, built to make controlled cuts by following a line drawn on the subject's surface, while maintaining a target cutting depth throughout the motion.
 
 ## Operating Modes
 
@@ -11,8 +11,8 @@ A 4 degree of freedom CNC style robot (X, Y, Z, and knife rotation) with an orie
 
 ## Project Documents
 
-- `BASE-PROJECT-CREDIT.md`, credit for the base tutorial this project builds on, and what is being kept versus modified
-- `BILL-OF-MATERIALS.md`, full parts list, base tutorial parts plus the surgical specific additions
+- `Base-Project-Credit.md`, credit for the base tutorial this project builds on, and what is being kept versus modified
+- `Bill-Of-Materials.md`, full parts list, base tutorial parts plus the surgical specific additions
 - `Brainstorming.md`, research notes covering actuation, depth and force sensing, line following, and control architecture
 
 ## Core Subsystems

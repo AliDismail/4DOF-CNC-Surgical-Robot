@@ -2,7 +2,7 @@
 
 ## 1. Project Summary
 
-This project is a 3 degree of freedom CNC style robot with an orientable knife end effector, designed to make controlled cuts into a soft test material (playdough shaped like human tissue) by following a line drawn on the surface of the cutting subject, while maintaining a target cutting depth throughout the motion.
+This project is a 3 degree of freedom CNC style robot with an orientable knife end effector, designed to make controlled cuts by following a line drawn on the surface of the cutting subject, while maintaining a target cutting depth throughout the motion.
 
 The system has two operating modes:
 
